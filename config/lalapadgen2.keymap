@@ -93,7 +93,7 @@
 &kp Q              &kp W      &kp E         &kp R      &kp T                                     &kp Y      &kp U     &kp I                       &kp O                       &kp P
 &mt2 JP_HANZEN A   &kp S      &kp D         &kp F      &kp G                                     &kp H      &kp J     &kp K                       &kp L                       &mt2 JP_CARET MINUS
 &mt2 LEFT_SHIFT Z  &kp X      &kp C         &kp V      &kp B                                     &kp N      &kp M     &kp COMMA                   &kp PERIOD                  &mt2 COLON SEMI
-&kp LCTRL          &kp LWIN   &kp LEFT_ALT  &mo 1      &kp BACKSPACE  &lt 1 SPACE  &lt 2 SPACE  &kp ENTER  &kp RSHIFT &mt2 JP_LBRACE JP_LBRACKET  &mt2 JP_RBRACE JP_RBRACKET  &mt2 0x89 SLASH
+&kp LCTRL          &kp LWIN   &kp LEFT_ALT  &kp BACKSPACE  &lt 1 SPACE &lt 1 JP_KANA     &lp RSHIFT  &lt 2 SPACE  &kp ENTER  &mt2 JP_LBRACE JP_LBRACKET  &mt2 JP_RBRACE JP_RBRACKET  &mt2 0x89 SLASH
                    &none      &kp RIGHT     &kp DOWN   &kp LEFT   &kp UP          &kp UP         &kp LEFT   &kp DOWN  &kp RIGHT       &none
 &mkp LCLK          &mkp RCLK  &mkp MCLK                                                                               &mkp LCLK       &mkp RCLK       &mkp MCLK
 &mkp MB4           &mkp MB5   &kp LG(TAB)   &kp LG(D)  &kp LCTRL                                 &mkp MB4   &mkp MB5  &kp LG(TAB)     &kp LG(D)       &kp LCTRL
@@ -106,7 +106,7 @@
 &kp N1            &kp NUMBER_2       &kp NUMBER_3  &kp NUMBER_4  &kp N5                    &kp KP_NUMLOCK    &kp KP_NUMBER_7    &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_PLUS
 &kp NUMBER_6      &kp N7             &kp N8        &kp N9        &kp N0                    &trans            &kp KP_NUMBER_4    &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_MINUS
 &kp F6            &kp F7             &kp F8        &kp F9        &kp F10                   &trans            &kp KP_NUMBER_1    &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_ASTERISK
-&trans            &trans             &trans        &trans        &kp DEL   &trans  &trans  &trans            &trans             &kp KP_NUMBER_0  &kp KP_DOT       &kp KP_DIVIDE
+&trans            &trans             &trans        &kp DEL       &kp trans   &trans  &trans  &trans            &trans             &kp KP_NUMBER_0  &kp KP_DOT       &kp KP_DIVIDE
                   &trans             &trans        &trans        &trans   &trans  &trans   &trans            &trans             &trans           &trans
 &trans            &trans             &trans                                                                                     &trans           &trans           &trans
 &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans        &trans        &trans                    &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans           &trans           &trans

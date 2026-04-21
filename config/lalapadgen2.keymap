@@ -90,9 +90,9 @@
         DEFAULT_LAYER {
             display-name = "Default";
             bindings = <
-&kp Q              &kp W      &kp E         &kp R      &kp T                                                      &kp Y      &kp U     &kp I                       &kp O                       &kp P
+&mt2 ESC Q         &kp W      &kp E         &kp R      &kp T                                                      &kp Y      &kp U     &kp I                       &kp O                       &kp P
 &mt2 JP_HANZEN A   &kp S      &kp D         &kp F      &kp G                                                      &kp H      &kp J     &kp K                       &kp L                       &mt2 JP_CARET MINUS
-&kp Z              &kp X      &kp C         &kp V      &kp B                                                      &kp N      &kp M     &kp COMMA                   &kp PERIOD                  &mt2 JP_COLON SEMI
+&mt2 LSHIFT Z      &kp X      &kp C         &kp V      &kp B                                                      &kp N      &kp M     &kp COMMA                   &kp PERIOD                  &mt2 JP_COLON SEMI
 &kp LCTRL          &kp LWIN   &kp LEFT_ALT  &kp BACKSPACE  &lt 1 SPACE &mt2 LSHIFT JP_UNDERSCORE   &mt2 RSHIFT JP_AT  &lt 2 SPACE  &kp ENTER  &mt2 JP_LBRACE JP_LBRACKET  &mt2 JP_RBRACE JP_RBRACKET  &mt2 0x89 SLASH
                    &kp JP_EISU   &kp RIGHT     &kp DOWN   &kp LEFT   &kp UP                          &kp UP         &kp LEFT   &kp DOWN  &kp RIGHT       &kp JP_KANA
 &mkp LCLK          &mkp RCLK  &mkp MCLK                                                                               &mkp LCLK       &mkp RCLK       &mkp MCLK
